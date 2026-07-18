@@ -62,3 +62,39 @@ docs: Update README
 - No commented dead code.
 - Keep methods short.
 - Write reusable components.
+
+---
+
+##Branch Rules
+
+main
+
+Stable versions only
+Protected branch
+No direct push
+
+develop
+
+Integration branch
+Merge all completed features here
+
+feature/*
+
+One task per branch
+ُExamples:
+  feature/database-schema
+
+  feature/auth-api
+
+  feature/rag-design
+
+  feature/mobile-navigation
+
+docs/
+
+Documentation only
+
+Example
+  docs/system-design
+
+  docs/api-documentation
