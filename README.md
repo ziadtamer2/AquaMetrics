@@ -57,4 +57,4 @@ Assets/
 Clone the repository
 
 ```bash
-git clone https://github.com/Organization/AquaMetrics.git
+git clone https://github.com/ziadtamer2/AquaMetrics.git
